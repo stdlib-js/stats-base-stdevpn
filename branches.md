@@ -38,12 +38,12 @@ C -->|bundle| D[esm];
 C -->|bundle| E[deno];
 C -->|bundle| F[umd];
 
-click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/stdevpn"
-click B href "https://github.com/stdlib-js/stats-base-stdevpn/tree/main"
-click C href "https://github.com/stdlib-js/stats-base-stdevpn/tree/production"
-click D href "https://github.com/stdlib-js/stats-base-stdevpn/tree/esm"
-click E href "https://github.com/stdlib-js/stats-base-stdevpn/tree/deno"
-click F href "https://github.com/stdlib-js/stats-base-stdevpn/tree/umd"
+%% click A href "https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/stdevpn"
+%% click B href "https://github.com/stdlib-js/stats-base-stdevpn/tree/main"
+%% click C href "https://github.com/stdlib-js/stats-base-stdevpn/tree/production"
+%% click D href "https://github.com/stdlib-js/stats-base-stdevpn/tree/esm"
+%% click E href "https://github.com/stdlib-js/stats-base-stdevpn/tree/deno"
+%% click F href "https://github.com/stdlib-js/stats-base-stdevpn/tree/umd"
 ```
 
 [stdlib-url]: https://github.com/stdlib-js/stdlib/tree/develop/lib/node_modules/%40stdlib/stats/base/stdevpn
