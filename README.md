@@ -364,11 +364,7 @@ Copyright &copy; 2016-2024. The Stdlib [Authors][stdlib-authors].
 
 <!-- <related-links> -->
 
-[@stdlib/stats/base/dstdevpn]: https://github.com/stdlib-js/stats-base-dstdevpn
-
 [@stdlib/stats/base/nanstdevpn]: https://github.com/stdlib-js/stats-base-nanstdevpn
-
-[@stdlib/stats/base/sstdevpn]: https://github.com/stdlib-js/stats-base-sstdevpn
 
 [@stdlib/stats/base/stdev]: https://github.com/stdlib-js/stats-base-stdev
 
